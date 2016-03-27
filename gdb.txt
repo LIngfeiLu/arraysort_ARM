@@ -1,0 +1,16 @@
+/* First partner's name: Lingfei Lu, A91046735
+ * Second partner's name: Junxi Li, A91105747
+ */
+
+1. The answer is 52996142879555
+2. The answer is 0x303320455343
+3. 4 bytes, least significant byte, little endian, replace 4 with 6
+4. x/6c &puzzle1 ———> CSE 30
+5. x/wd puzzle2+4 ———> CSE 92093, 
+6. x/12hu &puzzle3 ———> 12 numbers, power of 2, array of short, 2048
+7. No, don’t have to print
+8. last printed 4, value of i 1
+9. line 25
+10. *a = 1
+11. line 25
+12. *a = 13
